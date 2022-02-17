@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwOheRkO8uihGWbkwYFfnoaSplx2s9xYTb4zF+7e1JPJlh/NlKPC7eaqEyC5Ljfuw0yNIGvlisiObJDACgJ2vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\coliveros\\OneDrive - GBM Corporacion\\Desktop\\vb\\proyecto\\proyecto\\proyecto.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\coliveros\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.data.oledb\\6.0.0\\system.data.oledb.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.diagnostics.performancecounter\\6.0.0\\system.diagnostics.performancecounter.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\coliveros\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
